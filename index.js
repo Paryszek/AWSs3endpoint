@@ -14,7 +14,7 @@ app.use(function(req, res, next) {
     next();
   });
   
-const port = 4000
+const port = 80
 
 const BUCKET_NAME = credentials.BUCKET_NAME;
 const USER_KEY = credentials.USER_KEY;
