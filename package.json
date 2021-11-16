@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Paryszek/AWSs3endpoint#readme",
   "dependencies": {
-    "aws-sdk": ">= 2.0.9",
+    "aws-sdk": ">= 2.814.0",
     "express": "^4.16.4",
     "multer": "^1.4.1",
     "node-uuid": ">= 1.4.1"
